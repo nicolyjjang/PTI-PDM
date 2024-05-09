@@ -9,7 +9,8 @@ Baseado na descrição do texto base, escolha e crie um componente utilizando
 React Native.
 
 ## Exemplo do componente a ser criado
-<img src="https://github.com/nicolyjjang/PTI-PDM/assets/107158277/07cb327b-5ecb-4805-b6eb-3d19999c1354" width="400px">
+<img src="https://github.com/nicolyjjang/PTI-PDM/assets/107158277/cd1e9b19-84de-4544-ade0-ab3c6e34e9a7" width="400px">
+
 
 ## Resposta
-![Captura de tela 2024-05-01 161317](https://github.com/nicolyjjang/PTI-PDM/assets/107158277/6f56accd-216a-4342-a00a-e63162dacc95)
+<img src="https://github.com/nicolyjjang/PTI-PDM/assets/107158277/6f56accd-216a-4342-a00a-e63162dacc95" width="400px">
