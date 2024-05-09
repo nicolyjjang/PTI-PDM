@@ -13,4 +13,5 @@ React Native.
 
 
 ## Resposta
-<img src="https://github.com/nicolyjjang/PTI-PDM/assets/107158277/6f56accd-216a-4342-a00a-e63162dacc95" width="400px">
+<img src="https://github.com/nicolyjjang/PTI-PDM/assets/107158277/0b149d38-7b9a-4392-9ea9-a5355001e1e5" width="400px">
+
